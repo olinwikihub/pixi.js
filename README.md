@@ -1,3 +1,5 @@
+Editing doesn't work
+
 Pixi Renderer 
 =============
 
