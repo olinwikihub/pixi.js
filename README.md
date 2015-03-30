@@ -1,4 +1,4 @@
-Editing doesn't work
+Editing doesn't work, does it?
 
 Pixi Renderer 
 =============
